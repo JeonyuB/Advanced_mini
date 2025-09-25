@@ -1,0 +1,13 @@
+pandas
+numpy
+scikit-learn
+scipy
+tqdm
+implicit
+threadpoolctl
+sqlalchemy
+pyarrow   # (pickle 데이터 대신 parquet/csv를 다룰 수도 있음)
+torch
+transformers
+openpyxl
+
